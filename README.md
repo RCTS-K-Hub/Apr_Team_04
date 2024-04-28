@@ -54,7 +54,7 @@ The settings page allows users and admins to manage their accounts effectively.
 1. **Contact Us Responses:** Admins can access and review responses submitted by users through the contact form, enabling effective communication management.
 1. **User Management:** Admins have the authority to approve new user accounts and delete any existing user accounts as necessary, ensuring control and security within the system
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.001.png)
+![](./output%20screens/team.png)
 
 - The Senior developers are the main workforce, also responsible to guide one assigned junior developer.
 - The Junior developers help the Senior developers with assigned tasks and learn under their guidance.
