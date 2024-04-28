@@ -99,11 +99,6 @@ Reviewed the project's security measures, including authentication mechanisms, d
 **9)Error Handling and Logging:** 
 Evaluate error handling practices and logging mechanisms to ensure comprehensive error detection, reporting, and resolution strategies are in place.
 
-
-
-
-
-
 **Areas for Improvement**
 
 **Comments in Code:**
@@ -129,41 +124,39 @@ Assess the effectiveness of testing strategies, including unit testing, integrat
 
 **Home Page:** Welcome to our platform! Explore our services and log in as an admin or user to access your account.
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.004.jpeg)
+![](./output%20screens/home.jpeg)
 
 **Login Page:** Log in with your credentials to access your account and enjoy our services. For both Users and Admins
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.005.jpeg)
-
-
+![](./output%20screens/adminlogin.jpeg)
 
 **Signup Page:** Create a new account to get started and unlock exclusive features.
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.006.jpeg)
+![](./output%20screens/adminsignup.jpeg)
 
 **Profile Page:** Manage your profile information and settings to personalize your experience.
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.007.jpeg)
+![](./output%20screens/adminprofile.jpeg)
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.008.jpeg)
+![](./output%20screens/adminprofile1.jpeg)
 
 **Reset Password:** Want to Change your password? Reset it securely here.
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.009.jpeg)
+![](./output%20screens/resetpassword.jpeg)
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.010.jpeg)
+![](./output%20screens/resetpassword2.jpeg)
 
 **Forgot Password:** Forgot Your Password? Enter your email to receive a password reset link.
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.011.jpeg)
+![](./output%20screens/forgopassword.jpeg)
 
-**Contact Us Messages Page:** View and manage messages sent by users through the contact form. Only for Admins ![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.012.jpeg)
+**Contact Us Messages Page:** View and manage messages sent by users through the contact form. Only for Admins ![](./output%20screens/contactmeesages.jpeg)
 
 **Contact Us Form:** Reach out to us with your queries, feedback, or concerns.
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.013.jpeg)
+![](./output%20screens/contactus.jpeg)
 
 
 **User Management Page:** Admins can manage user accounts, approve new registrations, and oversee user activity.
 
-![](Aspose.Words.bc7448a5-5124-4856-8437-7aa3fe815d5b.014.jpeg)
+![](./output%20screens/usermanagement.jpeg)
